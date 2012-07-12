@@ -1,7 +1,6 @@
-aspnet-mvc-client-validation-bridge
-===================================
+# ASP.NET MVC validation bridge for JavaScript frameworks
 
-Bridge for making your view model validation attributes available to JavaScript frameworks, such as Backbone etc.
+Bridge for making your view model validation attributes available to JavaScript frameworks, such as Backbone, JavaScript MVC, Ember etc.
 
 ## Usage
 1. Add the controller to your project.
